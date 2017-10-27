@@ -1,0 +1,24 @@
+Shop
+Downloade: 
+Download abgeschlossen: 
+Bytes Gesamt: 
+Datei Größen:
+sehr groß
+groß
+normal
+klein
+Treiber Update (55 bytes): 2x Download Geschwindigkeit
+Datei Größen (30 bytes): Größen sichtbar
+Vollbild (40 bytes): Aktiviere mit F9
+Leistenfarbe (35 bytes): Zufällige Farben der Leiste
+Knopf (20 bytes): Integrierter Click-Zähler!
+Herzlichen Glückwunsch!
+Du hast viele tolle Spiele heruntergeladen!
+(Eigentlich nicht...)
+Credits:
+Programmieren / Grafik:
+Speziellen Dank an:
+Dich - Für das Spielen meines Spiels
+Dieses Spiel wurde mit Hilfe
+der genialen Python-Bibliothek
+pygame erstellt!

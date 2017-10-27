@@ -1,0 +1,24 @@
+Shop
+Currently downloading: 
+Download finished: 
+Total Bytes: 
+File sizes:
+very large
+large
+normal
+small
+Driver update (55 bytes): 2x download speed
+File size (30 bytes): show file size
+Fullscreen (40 bytes): toggle fullscreen via F9
+Bar Color (35 bytes): pick random bar colors
+Button (20 bytes): integrated click-counter!
+Congratulations!
+You downloaded a lot of great games!
+(Actually not...)
+Credits:
+Programming / Art:
+Special thanks to:
+You - For playing my game
+This game was made with the help of
+the awesome python library
+pygame!
